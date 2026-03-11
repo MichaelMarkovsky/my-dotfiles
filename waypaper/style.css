@@ -1,0 +1,38 @@
+/* Whatever is in the *{} makes weird looking shadow not appear when i hover over the application. */
+* {
+    box-shadow: none;
+    text-shadow: none;
+}
+
+window {
+    background-color: rgba(6, 30, 41,0.4);
+    box-shadow: none;
+    text-shadow:none;
+}
+
+
+button {
+    background-image: none;
+    background-color: rgba(29, 84, 109,0.6);
+    color: rgba(243, 244, 244,0.4);
+    border: 2px solid transparent;
+    box-shadow: none;
+}
+
+button:hover {
+    background-image: none;
+    box-shadow: none;
+
+    border: 2px;
+    border-style: solid;
+    border-color: rgba(95, 149, 152,0.4);
+}
+
+.highlighted-button {
+    background-image: none;
+    box-shadow: none;
+
+    border: 2px;
+    border-style: solid;
+    background-color: rgba(95,149,152,0.5);
+}
