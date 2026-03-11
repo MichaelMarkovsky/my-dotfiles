@@ -1,5 +1,7 @@
 # Welcome to my Arch Linux dotfiles
 
 
-https://github.com/user-attachments/assets/4ede1d00-a8ed-47db-a3bd-e568a794ab18
+
+
+https://github.com/user-attachments/assets/fc16e7da-3f90-4684-b589-64b480b7171a
 
